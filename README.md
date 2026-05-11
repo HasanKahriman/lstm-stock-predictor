@@ -131,6 +131,9 @@ Simülasyon sırasında matplotlib ile canlı güncellenen bir grafik gösterili
 - **● Turuncu nokta:** BEKLE sinyali verilen günler
 
 ---
+## 📸 Örnek Çıktı
+![Simülasyon Grafiği](assets/simulation_output.png)
+---
 
 ## ⚠️ Önemli Notlar
 
